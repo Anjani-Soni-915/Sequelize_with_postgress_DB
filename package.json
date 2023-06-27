@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "pg": "^8.11.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.32.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "new-sequlize-project",
+  "version": "1.0.0",
+  "description": "get,post and put with postman",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "Anjani Soni",
+  "license": "ISC"
+}
